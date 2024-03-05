@@ -1,4 +1,25 @@
-<h2 align="left">Hi 👋! My name is Sparsh and I'm a Masters Student pursuing Computer Science at ASU</h2>
+[![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Frohit-iwnl&label=Profile%20Visits&labelColor=%23252422&countColor=%23eb5e28&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frohit-iwnl)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=EB5E28&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I+am+Sparsh+Palkhiwala;%3C%2F%3E" />
+</h1>
+
+<h2 align='center'>I solve problems using code and data</></h2>
+<h3 align="center">A passionate software developer and Machine Learning Enthusiast from India 🇮🇳</h3>
+
+<div align="center">
+
+ 👨‍🎓 1st year MS in Computer Science student at **Arizona State University**
+ 
+ 🔭 I’m currently working on **Graph Based Traffic VQA, Content Moderation using AI,NLP and Blockchain**
+ 
+ 🌱 I’m currently learning **Deep Learning**
+
+📫 Reach me at **spalkhiw@asu.edu**
+
+🔗 Check out my portfolio : **[sparsh-palkhiwala.github](https://sparsh-palkhiwala.github.io/)**
+
+ </div>
 
 ###
 
@@ -73,10 +94,5 @@
 
 <br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sparsh-Palkhiwala/count.svg?"  />
-</div>
 
 ###

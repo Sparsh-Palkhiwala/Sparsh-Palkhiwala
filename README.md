@@ -1,5 +1,3 @@
-[![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Frohit-iwnl&label=Profile%20Visits&labelColor=%23252422&countColor=%23eb5e28&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frohit-iwnl)
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Sparsh-Palkhiwala&label=Profile%20Views&color=12&pretty=true" />
 </a>
@@ -15,7 +13,7 @@
 
  👨‍🎓 1st year MS in Computer Science student at **Arizona State University**
  
- 🔭 I’m currently working on **Graph Based Traffic VQA, Content Moderation using AI,NLP and Blockchain**
+ 🔭 I’m currently working on **Graph Based Traffic VQA**
  
  🌱 I’m currently learning **Deep Learning**
 

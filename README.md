@@ -11,11 +11,11 @@
 
 <div align="center">
 
- 👨‍🎓 1st year MS in Computer Science student at **Arizona State University**
+ 👨‍🎓 2nd year MS in Computer Science student at **Arizona State University**
  
- 🔭 I’m currently working on **Graph Based Traffic VQA**
+ 🔭 I’m currently working on **Generating synthetic data using Agentic workflows**
  
- 🌱 I’m currently learning **Deep Learning**
+ 🌱 I’m currently learning **GraphQL and Agentic workflows**
 
 📫 Reach me at **spalkhiw@asu.edu**
 

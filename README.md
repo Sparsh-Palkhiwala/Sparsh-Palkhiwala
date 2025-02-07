@@ -1,6 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sparsh-Palkhiwala&label=Profile%20Views&color=12&pretty=true" />
-</a>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&pause=1000&color=EB5E28&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I+am+Sparsh+Palkhiwala;%3C%2F%3E" />
